@@ -1,2 +1,2 @@
 192.168.56.101 apache_package=apache2 php_package=libapache2-mod-php
-192.168.56.103 apche_package=httpd php_package=php
+192.168.56.103 apache_package=httpd php_package=php
