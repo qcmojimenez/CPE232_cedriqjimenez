@@ -23,7 +23,7 @@
   tasks:
 
   - name: install apache and php for ubuntu servers
-  tags: apache,apache2,ubuntu
+    tags: apache,apache2,ubuntu
     apt:
       name:
         - apache2
